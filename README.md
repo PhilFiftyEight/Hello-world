@@ -8,3 +8,4 @@ Tutorial pour l'apprentissage des basics de github
 - Création d'une Pull request
 - Merge
 - Suppression de la branche
+- Essai de clonage
