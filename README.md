@@ -15,3 +15,5 @@ Tutorial pour l'apprentissage des basics de github
 - premier commit/push à partir de vscode
 - deuxième essai de commit après avoir créer une seconde branche
 - push avec publication de la nouvelle branche
+- creation d'une nouvelle branche pour ajouter ce texte
+- pull request et merge
